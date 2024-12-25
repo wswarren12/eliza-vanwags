@@ -1,8 +1,10 @@
 {
-    "name": "tate",
+    "name": "vanwags",
     "clients": ["discord"],
     "modelProvider": "openai",
     "settings": {
+        "debug": true,
+        "logLevel": "debug",
         "secrets": {},
         "voice": {
             "model": "en_US-male-medium"
